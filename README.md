@@ -126,21 +126,8 @@ Al tocar una nota **C4**:
 
 ## 🔬 Autoría y créditos
 
-Proyecto desarrollado por **Adrián Gallo Mosqueira**,  
+Proyecto desarrollado por **Adrián Gallo**,  
 como parte del estudio sobre **correlación estructural entre sonido y color** en el modelo HSL.  
 
 Inspirado en la **sinestesia musical** y la teoría perceptual de **Wassily Kandinsky**.
 
----
-
-## 🧩 Próximas mejoras (roadmap)
-
-- 🎼 Soporte para múltiples melodías (ej. *Für Elise*, *Canon in D*).  
-- 🔊 Control de tempo y dinámica.  
-- 💡 Integración MIDI real con luces físicas (IoT / RGB LEDs).  
-- 🎨 Exportación de visualizaciones en video.  
-
----
-
-⭐ Si te gustó el proyecto, ¡dale una estrella en GitHub!  
-Tu apoyo ayuda a seguir creando más herramientas visual-musicales.
